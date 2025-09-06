@@ -1,0 +1,13 @@
+[2024-12-21 15:18:54,885] 225 werkzeug - WARNING -  * Debugger is active!
+[2024-12-21 15:18:54,891] 225 werkzeug - INFO -  * Debugger PIN: 105-097-143
+[2024-12-21 15:18:55,014] 225 werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2024-12-21 15:18:55,014] 225 werkzeug - INFO -  * Running on http://192.168.162.212:8080/ (Press CTRL+C to quit)
+[2024-12-21 15:18:55,030] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\zmq\\sugar\\context.py', reloading
+[2024-12-21 15:18:55,045] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\zmq\\sugar\\frame.py', reloading
+[2024-12-21 15:18:55,069] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\zmq\\sugar\\poll.py', reloading
+[2024-12-21 15:18:55,091] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\zmq\\sugar\\socket.py', reloading
+[2024-12-21 15:18:55,114] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\zmq\\sugar\\tracker.py', reloading
+[2024-12-21 15:18:55,136] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\zmq\\sugar\\version.py', reloading
+[2024-12-21 15:18:55,163] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\zopfli\\__init__.py', reloading
+[2024-12-21 15:18:55,173] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\pythonwin\\pywin\\__init__.py', reloading

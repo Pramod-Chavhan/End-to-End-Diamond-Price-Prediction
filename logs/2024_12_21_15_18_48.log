@@ -1,0 +1,23 @@
+[2024-12-21 15:18:50,394] 225 werkzeug - WARNING -  * Debugger is active!
+[2024-12-21 15:18:50,394] 225 werkzeug - INFO -  * Debugger PIN: 105-097-143
+[2024-12-21 15:18:50,518] 225 werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2024-12-21 15:18:50,518] 225 werkzeug - INFO -  * Running on http://192.168.162.212:8080/ (Press CTRL+C to quit)
+[2024-12-21 15:18:50,534] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\structlog\\_base.py', reloading
+[2024-12-21 15:18:50,550] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\structlog\\_config.py', reloading
+[2024-12-21 15:18:50,550] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\structlog\\_generic.py', reloading
+[2024-12-21 15:18:50,550] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\structlog\\_log_levels.py', reloading
+[2024-12-21 15:18:50,565] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\structlog\\_loggers.py', reloading
+[2024-12-21 15:18:50,581] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\structlog\\exceptions.py', reloading
+[2024-12-21 15:18:50,597] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\structlog\\testing.py', reloading
+[2024-12-21 15:18:50,706] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\sympy\\assumptions\\predicates\\calculus.py', reloading
+[2024-12-21 15:18:50,722] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\sympy\\assumptions\\predicates\\sets.py', reloading
+[2024-12-21 15:18:50,896] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\sympy\\functions\\__init__.py', reloading
+[2024-12-21 15:18:50,974] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\sympy\\functions\\elementary\\integers.py', reloading
+[2024-12-21 15:18:51,005] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\sympy\\geometry\\__init__.py', reloading
+[2024-12-21 15:18:51,021] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\sympy\\geometry\\exceptions.py', reloading
+[2024-12-21 15:18:51,161] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\sympy\\matrices\\sparsetools.py', reloading
+[2024-12-21 15:18:51,444] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\sympy\\printing\\smtlib.py', reloading
+[2024-12-21 15:18:51,444] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\sympy\\release.py', reloading
+[2024-12-21 15:18:51,491] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\sympy\\series\\residues.py', reloading
+[2024-12-21 15:18:51,507] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\sympy\\series\\series.py', reloading

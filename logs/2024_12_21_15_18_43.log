@@ -1,0 +1,49 @@
+[2024-12-21 15:18:45,916] 225 werkzeug - WARNING -  * Debugger is active!
+[2024-12-21 15:18:45,923] 225 werkzeug - INFO -  * Debugger PIN: 105-097-143
+[2024-12-21 15:18:46,040] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\linalg\\_decomp_qz.py', reloading
+[2024-12-21 15:18:46,053] 225 werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2024-12-21 15:18:46,053] 225 werkzeug - INFO -  * Running on http://192.168.162.212:8080/ (Press CTRL+C to quit)
+[2024-12-21 15:18:46,067] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\linalg\\_decomp_svd.py', reloading
+[2024-12-21 15:18:46,092] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\linalg\\_decomp_schur.py', reloading
+[2024-12-21 15:18:46,109] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\linalg\\_decomp_polar.py', reloading
+[2024-12-21 15:18:46,118] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\linalg\\_matfuncs.py', reloading
+[2024-12-21 15:18:46,149] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\linalg\\blas.py', reloading
+[2024-12-21 15:18:46,181] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\linalg\\lapack.py', reloading
+[2024-12-21 15:18:46,212] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\linalg\\_special_matrices.py', reloading
+[2024-12-21 15:18:46,243] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\linalg\\_solvers.py', reloading
+[2024-12-21 15:18:46,259] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\linalg\\_procrustes.py', reloading
+[2024-12-21 15:18:46,274] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\linalg\\_sketches.py', reloading
+[2024-12-21 15:18:46,290] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\linalg\\_decomp_cossin.py', reloading
+[2024-12-21 15:18:46,306] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\misc\\__init__.py', reloading
+[2024-12-21 15:18:46,321] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\misc\\_common.py', reloading
+[2024-12-21 15:18:46,337] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\ndimage\\__init__.py', reloading
+[2024-12-21 15:18:46,368] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\ndimage\\_filters.py', reloading
+[2024-12-21 15:18:46,384] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\ndimage\\_fourier.py', reloading
+[2024-12-21 15:18:46,399] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\ndimage\\_interpolation.py', reloading
+[2024-12-21 15:18:46,430] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\ndimage\\_measurements.py', reloading
+[2024-12-21 15:18:46,462] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\ndimage\\_morphology.py', reloading
+[2024-12-21 15:18:46,462] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\odr\\__init__.py', reloading
+[2024-12-21 15:18:46,493] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\odr\\_odrpack.py', reloading
+[2024-12-21 15:18:46,509] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\odr\\_models.py', reloading
+[2024-12-21 15:18:46,524] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\optimize\\__init__.py', reloading
+[2024-12-21 15:18:46,572] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\optimize\\_optimize.py', reloading
+[2024-12-21 15:18:46,600] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\optimize\\_minimize.py', reloading
+[2024-12-21 15:18:46,641] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\optimize\\_root.py', reloading
+[2024-12-21 15:18:46,664] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\optimize\\_root_scalar.py', reloading
+[2024-12-21 15:18:46,700] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\optimize\\_minpack_py.py', reloading
+[2024-12-21 15:18:46,732] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\optimize\\_zeros_py.py', reloading
+[2024-12-21 15:18:46,748] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\optimize\\_nonlin.py', reloading
+[2024-12-21 15:18:46,790] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\signal\\__init__.py', reloading
+[2024-12-21 15:18:46,800] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\signal\\_waveforms.py', reloading
+[2024-12-21 15:18:46,847] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\signal\\_bsplines.py', reloading
+[2024-12-21 15:18:46,862] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\signal\\_filter_design.py', reloading
+[2024-12-21 15:18:46,904] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\signal\\_fir_filter_design.py', reloading
+[2024-12-21 15:18:46,938] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\signal\\_ltisys.py', reloading
+[2024-12-21 15:18:46,965] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\signal\\_lti_conversion.py', reloading
+[2024-12-21 15:18:46,998] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\signal\\_signaltools.py', reloading
+[2024-12-21 15:18:47,033] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\signal\\_spectral_py.py', reloading
+[2024-12-21 15:18:47,062] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\signal\\_short_time_fft.py', reloading
+[2024-12-21 15:18:47,085] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\signal\\_wavelets.py', reloading
+[2024-12-21 15:18:47,100] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\signal\\_peak_finding.py', reloading
+[2024-12-21 15:18:47,139] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\site-packages\\scipy\\signal\\_czt.py', reloading

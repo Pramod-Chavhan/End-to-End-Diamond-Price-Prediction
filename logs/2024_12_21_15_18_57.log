@@ -1,0 +1,6 @@
+[2024-12-21 15:18:59,128] 225 werkzeug - WARNING -  * Debugger is active!
+[2024-12-21 15:18:59,135] 225 werkzeug - INFO -  * Debugger PIN: 105-097-143
+[2024-12-21 15:18:59,257] 225 werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2024-12-21 15:18:59,258] 225 werkzeug - INFO -  * Running on http://192.168.162.212:8080/ (Press CTRL+C to quit)
+[2024-12-21 15:19:13,138] 225 werkzeug - INFO -  * Detected change in 'C:\\Python311\\Lib\\typing.py', reloading
